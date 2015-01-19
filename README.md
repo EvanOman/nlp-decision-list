@@ -1,7 +1,9 @@
-# nlp-decision-list
-
+#Command Line Usage:
+```
+perl decision-list.pl **Training Data**.txt **Test Data**.txt **Decision List**.txt > **Answers**.txt
+```
 # Description of Problem:
-The goal of this lab is to create a decision list for word sense disambiguation. We are focusing on the specific ambiguity:
+The goal of this project is to create a decision list for word sense disambiguation. We are focusing on the specific ambiguity:
 ```
         WordNet Case 15: telephone line, phone line, telephone circuit, subscriber line, line--- (a telephone connection)
        /
