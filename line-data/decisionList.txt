@@ -1,0 +1,5537 @@
+--------------------
+
+Log score: 3.49650756146648
+If the previous word is telephone, then the word sense is phone
+
+--------------------
+
+Log score: -3.3499040872746
+If the next word is of, then the word sense is product
+
+--------------------
+
+Log score: 3.09104245335832
+If the previous two words are on/the, then the word sense is phone
+
+--------------------
+
+Log score: -2.99573227355399
+If the surrounding two words are a/of, then the word sense is product
+
+--------------------
+
+Log score: 2.77258872223978
+If the previous word is access, then the word sense is phone
+
+--------------------
+
+Log score: 2.39789527279837
+If the previous two words are of/the, then the word sense is phone
+
+--------------------
+
+Log score: 2.39789527279837
+If the surrounding two words are the/was, then the word sense is phone
+
+--------------------
+
+Log score: -2.39789527279837
+If the previous word is a, then the word sense is product
+
+--------------------
+
+Log score: -2.30258509299405
+If the surrounding two words are new/of, then the word sense is product
+
+--------------------
+
+Log score: -2.30258509299405
+If the previous word is car, then the word sense is product
+
+--------------------
+
+Log score: -1.94591014905531
+If the previous two words are a/new, then the word sense is product
+
+--------------------
+
+Log score: -1.94591014905531
+If the previous word is ps/2, then the word sense is product
+
+--------------------
+
+Log score: -1.94591014905531
+If the previous word is computer, then the word sense is product
+
+--------------------
+
+Log score: 1.94591014905531
+If the next two words are was/dead, then the word sense is phone
+
+--------------------
+
+Log score: 1.87180217690159
+If the next word is was, then the word sense is phone
+
+--------------------
+
+Log score: 1.79175946922806
+If the surrounding two words are the/1, then the word sense is phone
+
+--------------------
+
+Log score: 1.79175946922806
+If the surrounding two words are telephone/and, then the word sense is phone
+
+--------------------
+
+Log score: 1.79175946922806
+If the surrounding two words are the/., then the word sense is phone
+
+--------------------
+
+Log score: 1.7730673362159
+If the previous word is the, then the word sense is phone
+
+--------------------
+
+Log score: -1.6094379124341
+If the previous two words are introduced/a, then the word sense is product
+
+--------------------
+
+Log score: 1.6094379124341
+If the surrounding two words are direct/to, then the word sense is phone
+
+--------------------
+
+Log score: 1.6094379124341
+If the surrounding two words are access/., then the word sense is phone
+
+--------------------
+
+Log score: 1.6094379124341
+If the surrounding two words are telephone/1, then the word sense is phone
+
+--------------------
+
+Log score: 1.6094379124341
+If the surrounding two words are telephone/., then the word sense is phone
+
+--------------------
+
+Log score: -1.6094379124341
+If the next two words are of/personal, then the word sense is product
+
+--------------------
+
+Log score: 1.6094379124341
+If the next two words are to/the, then the word sense is phone
+
+--------------------
+
+Log score: -1.6094379124341
+If the previous word is new, then the word sense is product
+
+--------------------
+
+Log score: 1.6094379124341
+If the previous word is direct, then the word sense is phone
+
+--------------------
+
+Log score: 1.6094379124341
+If the previous word is gab, then the word sense is phone
+
+--------------------
+
+Log score: -1.6094379124341
+If the previous word is product, then the word sense is product
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous two words are new/access, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous two words are 1/the, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous two words are <s>/the, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous two words are private/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous two words are new/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous two words are telephone/access, then the word sense is phone
+
+--------------------
+
+Log score: -1.38629436111989
+If the previous two words are new/ibm, then the word sense is product
+
+--------------------
+
+Log score: -1.38629436111989
+If the surrounding two words are car/1, then the word sense is product
+
+--------------------
+
+Log score: -1.38629436111989
+If the surrounding two words are ibm/., then the word sense is product
+
+--------------------
+
+Log score: 1.38629436111989
+If the surrounding two words are access/in, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the surrounding two words are access/1, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the surrounding two words are the/went, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the surrounding two words are telephone/--, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the next two words are went/dead, then the word sense is phone
+
+--------------------
+
+Log score: -1.38629436111989
+If the next two words are of/frozen, then the word sense is product
+
+--------------------
+
+Log score: -1.38629436111989
+If the previous word is ibm, then the word sense is product
+
+--------------------
+
+Log score: -1.38629436111989
+If the previous word is its, then the word sense is product
+
+--------------------
+
+Log score: 1.38629436111989
+If the previous word is trading, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the next word is increased, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the next word is grew, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the next word is went, then the word sense is phone
+
+--------------------
+
+Log score: 1.38629436111989
+If the next word is growth, then the word sense is phone
+
+--------------------
+
+Log score: -1.38629436111989
+If the next word is through, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous two words are its/current, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are off/the, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are a/direct, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are thousand/access, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous two words are launch/a, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are than/5701000, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous two words are a/similar, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are clogged/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous two words are its/new, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are new/customer, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are an/outside, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous two words are ibm's/ps/2, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are toll-free/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous two words are its/ps/2, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are the/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are over/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous two words are over/the, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the surrounding two words are 5701000/1, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the surrounding two words are computer/1, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the surrounding two words are car/., then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the surrounding two words are microprocessor/., then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the surrounding two words are access/were, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the surrounding two words are the/to, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the surrounding two words are telephone/that, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the surrounding two words are outside/1, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the surrounding two words are ps/2/of, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the surrounding two words are product/1, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the surrounding two words are current/of, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the surrounding two words are trading/to, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the next two words are has/been, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the next two words are of/shoes, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the next two words are 1/said, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the next two words are at/the, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the next two words are increased/3.7%, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the next two words are 1/a, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the next two words are was/still, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the next two words are 1/to, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the next two words are 1/mainly, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the next two words are of/computers, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the next two words are were/added, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is company's, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is microprocessor, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is outside, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is products, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is whose, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is subscriber, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is telephone-, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is current, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is information, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is food, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is vax, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is tip, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is skin-care, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is marketing, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is full, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is some, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is old, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is customer, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is private, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is similar, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is party, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the previous word is 5701000, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the previous word is older, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the next word is as, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the next word is could, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the next word is open, then the word sense is phone
+
+--------------------
+
+Log score: -1.09861228866811
+If the next word is is, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the next word is has, then the word sense is product
+
+--------------------
+
+Log score: -1.09861228866811
+If the next word is by, then the word sense is product
+
+--------------------
+
+Log score: 1.09861228866811
+If the next word is they, then the word sense is phone
+
+--------------------
+
+Log score: 1.09861228866811
+If the next word is recently, then the word sense is phone
+
+--------------------
+
+Log score: 1.02961941718116
+If the next word is to, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are to/crossed, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are inc.'s/lancome, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/information, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are a/car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are entry-level/fox, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are dozen/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/gm-10, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are luxury/lexus, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are basic/chemicals, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are million/access, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are <s>/business, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are with/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are certain/atlas, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are open/radio, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are of/access, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are many/private-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/vax, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/carleton, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are consumer/products, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/amiga, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are initial/filter, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are create/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are a/toll-free, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/credit, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are only/501000, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are inc.'s/ziari, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are ii/computer, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are company's/diagnostics, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are from/older, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are adult/diaper, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are have/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are including/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are an/exclusive, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are a/full, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are necessary/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are a/one-on-one, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are 32/computer, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are because/its, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are personal/computer, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/apparel, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are secure/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are to/$1.69, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are apparel/company's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are produce/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are &/marx, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/company's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are ibm's/lastest, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are running/gab, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are oh/lanterns, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are submarine-seeking/torpedo, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are about/31600, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are digital's/vax, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/party, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are but/all, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are or/dedicated, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are and/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/other, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are dedicated/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are a/dead, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are from/his, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/skin-care, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/{product}, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are of/several, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are of/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are for/the, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are <@>/<s>, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are under/the, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/nail-polish, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 151700/access, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are that/extending, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/zytel, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are long-distance/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/computer, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are new/luxury-car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are new/perfume, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/1988-model, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are three/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are dedicated/private, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are building/the, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/ground-coffee, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are <s>/these, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are shedding/some, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are of/sun's, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are more/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are time1/gm's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/jeep, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are just/at, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are in/subscriber, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are york/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are four/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are toll-free/complaint, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are business/with, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are installed/trading, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are ibm/ps/2, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/integrated, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are in/sex, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are keep/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are chevrolet/corsica, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are agricultural/machinery, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are inc.'s/macintosh, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are keep/a, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/old, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/acquired, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are business/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are for/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are jaclyn/smith, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/transformers, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are with/the, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are provide:/gab, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are an/open, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are as/24, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are while/such, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are company's/car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are eye-care/products, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are residents1/whose, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are more/complete, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are expand/their, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are products1/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are telephone/tip, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are says/clogged, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are their/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/tip, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are manufacture/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are main/computer, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are $5/billion, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are of/his, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are upscale/car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/optometric, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are complete/menswear, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are or/asynchronous, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/women's, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are foreign/exchange, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are briefs:/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are testing/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are mostly/older, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are by/george, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are for/using, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are largest/telephone-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are pratt's/pw4000, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are current/car, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are a/chat, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are <s>/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are edmonton1/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are existing/product, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are montana/fragrance, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/aerospace, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are by/direct, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/previous, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are on/your, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are their/trading, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are calif.1/gab, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are much/broader, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/health-club, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are new/product, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/furniture, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are hollywood's/dreamboat, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are clogged/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are dr./denton, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/cracker, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are dropping/the, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/party-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/non-food, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are renting/communications, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are about/4421000, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are a/specialized, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are new/x-rated, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are most/product, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are choice/software, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are would/his, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are highest-volume/car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are abex/corp.'s, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are other/gab-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/spectrum, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are some/private, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/rail-intermodal, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are customer/access, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are between/car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are smaller/specialty-food, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are pay/subscriber, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 5001000/access, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 900/telephone, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/microprocessor, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are and/romance, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 4.5%/access, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are midrange/product, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are of/coleco's, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are about/11800, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are establish/the, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 10/million, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/r1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are see/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are athletic/shoe, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are already/huge, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are other/consumer-products, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are excavation/equipment, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are other/marketing, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are megaquest's/bisexual, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are direct/trading, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are mirage/car, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are read/the, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are all/its, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are american/tire, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/building-materials, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are produces/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are that/those, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/office-equipment, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are residential/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are consumer/information, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/long-awaited, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are up/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are some/future, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 1/and, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/full, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are on/another, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are is/no, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are popular/car, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are on/that, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are sellers/in, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are most/important, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are phone/whose, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/three, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/truck, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are broaden/its, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are over/ordinary, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are soft/drink, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are nationally/advertised, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are mid-range/computer, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are drilling/bit, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are said/access, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/struggling, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are for/direct, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are prairie/skin-care, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are source's/latest, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are lucrative/military, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/old, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are sturdy/3x, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are ibm/pc, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are markets/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 161000/new, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are acquired/food, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are and/the, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are through/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are 911/emergency, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/car, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/hospital, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are corp.'s/ps/2, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/clarion, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are of/jewelry, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are grand/prix, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are keep/this, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/cougar, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are an/unsecured, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are brands'/other, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are reasonably/priced, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are 600/camera, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are out/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/sewing, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are its/microprocessor, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/marketing, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are a/popular, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are for/some, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/subscriber-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are frozen/food, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are lost/the, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are another/telephone, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are poorest/telephone-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are and/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are toll-call/party, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are the/new, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are patch/kids, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are nabisco's/cereal, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous two words are the/gab, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous two words are tried/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are several/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are products/so, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are the/into, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are ps/2/are, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are other/?, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/light, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are huge/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are food/to, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are struggling/was, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are new/to, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are its/2, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/between, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are all/were, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/that, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are old/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are chat/., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are one-on-one/like, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/at, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are your/1, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are toll-free/for, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are ps/2/as, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are george/is, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are bisexual/recently, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are billion/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are dead/1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are complete/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/busy, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are jeep/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are with/they, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are vax/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are military/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are $1.69/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are pc/wouldn't, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are filter/for, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are bit/is, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are software/pacing, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are communications/to, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are sewing/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are zytel/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are gm's/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are priced/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are important/!, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are private/and, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are exchange/., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are diagnostics/showed, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are customer/1, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/or, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are perfume/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are company's/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are shoe/to, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are full/under, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are at/that, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are fragrance/from, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/in, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/let's, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are {product}/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are optometric/were, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are company's/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are exclusive/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are private-/and, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are asynchronous/., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are party-/effect, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are this/open, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are credit/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are other/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are his/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone-/increase, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/called, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are nail-polish/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are sun's/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are its/by, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are such/will, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/of, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are popular/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are cougar/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are 3x/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are building-materials/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are marketing/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are dreamboat/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are machinery/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are gab/once, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are aerospace/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/jumped, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are extending/to, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/is, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are computer/is, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are cracker/and, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are coleco's/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are broader/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are subscriber/charges, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are drink/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are those/were, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/to, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are subscriber/charges., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are consumer-products/there1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are computer/and, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are carleton/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are clarion/have, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are private/., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are chemicals/from, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are lanterns/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are food/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are denton/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are whose/was, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are rail-intermodal/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are ps/2/last, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are gab/that, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are health-club/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are ground-coffee/through, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are trading/yesterday1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are lancome/are, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are 1988-model/this, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are some/and, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are skin-care/1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are torpedo/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are tire/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are amiga/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are vax/has, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are kids/could, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/from, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are older/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are <s>/will, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are full/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are 11800/in, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are a/into, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are dedicated/., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/just, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are 4421000/in, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/during, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are specialty-food/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are in/ranging, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are macintosh/rose, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are transformers/;, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are three/at, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are products/had, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/at, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are marketing/and, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/so, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are lastest/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are access/increased, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are whose/were, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are 24/and, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are gab/last, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are access/growth, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are information/appealing, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/with, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are cereal/with, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are subscriber-/charge, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are complaint/1, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are 501000/., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/used, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are integrated/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are his/be, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are computer/won't, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are these/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are tip/that, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are customer/grew, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are clogged/recently, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are x-rated/., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are apparel/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are tip/are, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/for, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are car/anymore1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/because, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are car/through, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are car/by, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are gab-/proprietors1, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/increased, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are luxury-car/may, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are similar/called, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/were, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/into, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are furniture/could, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are product/but, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are crossed/., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are information/1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are similar/and, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are marx/to, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are non-food/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are advertised/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are lexus/in, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are ordinary/., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are fox/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are unsecured/while, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are jewelry/from, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are gm-10/is, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are another/., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are the/planned, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are camera/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are the/and, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are using/they, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are latest/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are spectrum/has, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are specialized/of, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are hospital/was, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are r1/made, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are acquired/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are open/to, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are old/--, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are romance/., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are emergency/1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are skin-care/last, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are no/noise, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are the/it, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are diaper/in, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are party/., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are the/because, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/growth, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are their/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are gab/have, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are party/a, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are business/increased, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are prix/is, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are his/to, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are radio/and, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are ps/2/that, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are car/at, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are smith/in, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are equipment/are, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are previous/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are ziari/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are menswear/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are computer/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are the/as, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are 31600/at, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are some/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are access/grew, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are product/included, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are pw4000/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are that/if, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are corp.'s/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are long-awaited/of, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are women's/where, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are and/adapters, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are future/1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are a/open, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are sex/and, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are corsica/., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are its/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone/grew, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are telephone-/growth, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are atlas/and, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are truck/through, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are office-equipment/., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the surrounding two words are million/in, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are a/for, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the surrounding two words are older/products, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are are/wall, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/hormel, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are --/that, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/laptop, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are made/by, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are into/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/i've, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are just/to, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are that/can't, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/mr., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/chevrolet, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are have/been, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/limited, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/such, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are charges/and, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are could/fetch, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/no, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are last/april1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are was/scrapped., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/record, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/coronary, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are for/its, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are be/tapped, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/clothing, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are was/that, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/minicomputers, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are that/dozens, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/current, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are through/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/to, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/sunglasses., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are this/fall1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are increased/2.4%, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are with/the, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/dialed, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are and/its, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 2/machines, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are showed/an, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are to/kraft, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are if/he, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are growth/by, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are are/likely, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are proprietors1/megaquest, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/bally, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are a/new, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/older1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/leaves, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/more, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/nylon, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/centrex, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are were/expected, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are growth/in, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are --/voices, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are they/deem, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are were/jammed, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/stylish, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/have, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are anymore1/laments, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/moved, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/spread, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are !/</s>, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/which, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/computers1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are where/fashionability, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are and/i, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/he, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are through/dec., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/while, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are and/in, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/software, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are yesterday1/possibly, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are by/2.5%, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are under/its, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are grew/by, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are growth/since, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are grew/3.5%, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are have/a, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are called/soap, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are in/service1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/computers., then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are at/once, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are ?/he, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/deluxe, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are that/it, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/beds, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are called/healthy, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are open/for, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are is/substantially, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/swore, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are as/the, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/conduct, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are are/well, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are recently/got, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/cherubic, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are jumped/6.8%, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/sweaters, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are effect/could, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are in/service., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/over, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/investment, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are pacing/the, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are had/sales, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are planned/for, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/high-end, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/will, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/precision, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are for/the, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/she, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are rose/130%, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are were/hurt, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are once/talked, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/particularly, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are to/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are for/three, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are charges./</s>, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/auto, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/mainframes, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/frozen-cheese, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/trucks, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/mid-size, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/men's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are are/expected, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/elizabeth, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are charge/by, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/pdp, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are from/crystal, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are in/service, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are in/central, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/gab, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are may/not, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are used/in, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/with, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are because/noxell, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are of/millionaire's, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are and/properties1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are busy/for, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are because/children, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/fuqua, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are to/survive, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/their, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are was/busy, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/aircraft, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are as/a, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are is/just, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/fell, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/according, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/mammography, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are from/imperial, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/48, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/order, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are ./<p>, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are from/monteil1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/plastic, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/cray's, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/played, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are like/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/japanese-made, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are increase/ever1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/grotesque1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are last/year, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/first, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are by/offering, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are through/costly, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are --/its, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/tie, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are between/them, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are was/secure, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are is/in, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are adapters/1, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/a, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/mid-sized, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/built, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are --/checking, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are with/its, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/stock., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are is/still, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are they/had, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are but/declined, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are last/month, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are at/chevrolet1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are from/the, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are that/link, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/women's, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/like, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/halloween, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are were/allegedly, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/plush, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/midpriced, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are in/19851, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are there1/including, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are to/15., then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are ranging/from, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are won't/help, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/sir, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are that/supplement, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are 1/they, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are and/involving, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are appealing/for, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are could/draw, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/jeans, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/oversize, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/captain, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are or/that, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are for/you, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are light/up., then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are let's/call, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are noise/as, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are so/it, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are in/china1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/jockey, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/general, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are and/perhaps, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/one, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are wouldn't/still, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are were/out, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/about, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are included/the, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are is/capable, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are in/britain, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are is/aimed, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are will/continue, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are products/sold, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are recently/caused, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/green, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are that/has, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are open/!, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are 1/says, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are was/john, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are grew/2.5%, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are so/i, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are while/mr., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are ;/tonka, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/maybe, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are that/might, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are will/be, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are to/his, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are it/had, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are during/the, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are at/more, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next two words are of/computer, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next two words are and/public, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is emergency, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is specialty-food, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is cougar, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is machinery, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is smith, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is party-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is menswear, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is chat, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is 3x, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is integrated, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is pw4000, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is bisexual, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is corsica, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is nail-polish, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is unsecured, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is sex, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is cracker, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is kids, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is several, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is clarion, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is building-materials, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is amiga, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is bit, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is lancome, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is toll-free, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is transformers, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is 31600, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is billion, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is gm-10, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is communications, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is atlas, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is coleco's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is popular, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is in, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is gm's, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is clogged, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is million, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is dreamboat, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is truck, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is sewing, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is lexus, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is aerospace, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is with, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is military, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is 501000, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is perfume, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is drink, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is subscriber-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is spectrum, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is hospital, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is rail-intermodal, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is acquired, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is crossed, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is corp.'s, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is cereal, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is health-club, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is business, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is your, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is asynchronous, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is ground-coffee, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is radio, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is {product}, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is all, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is one-on-one, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is consumer-products, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is gab-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is credit, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is carleton, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is complaint, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is shoe, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is and, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is struggling, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is this, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is tire, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is dedicated, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is previous, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is exclusive, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is ziari, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is those, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is broader, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is jeep, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is software, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is important, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is diaper, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is $1.69, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is pc, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is their, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is women's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is luxury-car, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is extending, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is long-awaited, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is no, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is lastest, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is x-rated, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is dead, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is private-, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is prix, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is diagnostics, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is that, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is macintosh, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is latest, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is priced, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is three, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is furniture, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is at, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is r1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is filter, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is non-food, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is future, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is fox, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is george, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is <s>, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is 4421000, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is another, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is exchange, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is complete, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is open, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is zytel, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is using, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is fragrance, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is equipment, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is denton, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is chemicals, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is specialized, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is these, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is lanterns, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is 1988-model, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is sun's, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is optometric, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is marx, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is camera, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is romance, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is torpedo, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is advertised, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is 11800, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is office-equipment, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is ordinary, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is apparel, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is huge, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is jewelry, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the previous word is such, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the previous word is 24, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is charges., then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is from, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is were, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is used, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is just, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is jumped, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is this, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is --, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is let's, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is noise, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is increase, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is it, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is light, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is like, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is made, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is while, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is appealing, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is effect, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is products, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is 2, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is once, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is yesterday1, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is anymore1, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is between, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is may, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is ?, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is wouldn't, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is adapters, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is be, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is rose, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is charges, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is busy, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is during, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is proprietors1, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is if, then the word sense is phone
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is charge, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is under, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is had, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is pacing, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is won't, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is there1, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is are, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is ;, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is where, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is or, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is planned, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is that, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is ranging, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is but, then the word sense is product
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is included, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is !, then the word sense is phone
+
+--------------------
+
+Log score: -0.693147180559945
+If the next word is showed, then the word sense is product
+
+--------------------
+
+Log score: 0.693147180559945
+If the next word is a, then the word sense is phone
+
+--------------------
+
+Log score: 0.587786664902119
+If the next word is in, then the word sense is phone
+
+--------------------
+
+Log score: 0.538996500732687
+If the next word is and, then the word sense is phone
+
+--------------------
+
+Log score: -0.405465108108164
+If the next two words are in/the, then the word sense is product
+
+--------------------
+
+Log score: -0.405465108108164
+If the previous word is his, then the word sense is product
+
+--------------------
+
+Log score: -0.405465108108164
+If the next word is into, then the word sense is product
+
+--------------------
+
+Log score: -0.405465108108164
+If the next word is last, then the word sense is product
+
+--------------------
+
+Log score: 0.405465108108164
+If the next two words are 1/but, then the word sense is phone
+
+--------------------
+
+Log score: 0.405465108108164
+If the next two words are 1/the, then the word sense is phone
+
+--------------------
+
+Log score: 0.405465108108164
+If the next two words are 1/making, then the word sense is phone
+
+--------------------
+
+Log score: 0.287682072451781
+If the next word is at, then the word sense is phone
+
+--------------------
+
+Log score: -0.0984400728132526
+If the next word is 1, then the word sense is product
+
+--------------------
+
+Log score: -0.0625203569813339
+If the next two words are ./</s>, then the word sense is product
+
+--------------------
+
+Log score: -0.0307716586667535
+If the next word is ., then the word sense is product
+
+--------------------
+
+Log score: 0
+If the surrounding two words are the/in, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next two words are 1/is, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next two words are in/a, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next two words are into/the, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next two words are 1/and, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the previous word is other, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is with, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is have, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is will, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is so, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is for, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is because, then the word sense is -1
+
+--------------------
+
+Log score: 0
+If the next word is called, then the word sense is -1
+
+--------------------
+

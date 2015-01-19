@@ -1,0 +1,126 @@
+<answer instance="line-n.w8_059:8174:" senseid="phone"/>
+<answer instance="line-n.w7_098:12684:" senseid="phone"/>
+<answer instance="line-n.w8_106:13309:" senseid="phone"/>
+<answer instance="line-n.w9_40:10187:" senseid="phone"/>
+<answer instance="line-n.w9_16:217:" senseid="phone"/>
+<answer instance="line-n.w8_119:16927:" senseid="product"/>
+<answer instance="line-n.w8_008:13756:" senseid="phone"/>
+<answer instance="line-n.w8_041:15186:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 05601797:" senseid="phone"/>
+<answer instance="line-n.w8_119:2964:" senseid="product"/>
+<answer instance="line-n.w7_040:13652:" senseid="phone"/>
+<answer instance="line-n.w7_122:2194:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 45903907:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 43602625:" senseid="phone"/>
+<answer instance="line-n.w8_034:3995:" senseid="product"/>
+<answer instance="line-n.w8_139:696:" senseid="product"/>
+<answer instance="line-n.art7} aphb 20801955:" senseid="phone"/>
+<answer instance="line-n.w8_028:3156:" senseid="product"/>
+<answer instance="line-n.art7} aphb 19600919:" senseid="phone"/>
+<answer instance="line-n.w8_111:8071:" senseid="phone"/>
+<answer instance="line-n.w7_041:4840:" senseid="product"/>
+<answer instance="line-n.w7_074:3928:" senseid="product"/>
+<answer instance="line-n.w8_049:15000:" senseid="phone"/>
+<answer instance="line-n.w8_086:3306:" senseid="product"/>
+<answer instance="line-n.w9_8:1533:" senseid="phone"/>
+<answer instance="line-n.w8_042:5289:" senseid="phone"/>
+<answer instance="line-n.w7_041:11151:" senseid="product"/>
+<answer instance="line-n.w7_059:9261:" senseid="phone"/>
+<answer instance="line-n.w9_6:10969:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 41702230:" senseid="phone"/>
+<answer instance="line-n.w7_004:1365:" senseid="product"/>
+<answer instance="line-n.art7} aphb 26902918:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 37804749:" senseid="phone"/>
+<answer instance="line-n.w9_6:2907:" senseid="phone"/>
+<answer instance="line-n.w7_106:10827:" senseid="product"/>
+<answer instance="line-n.art7} aphb 02400926:" senseid="phone"/>
+<answer instance="line-n.w7_107:12000:" senseid="phone"/>
+<answer instance="line-n.w7_087:620:" senseid="product"/>
+<answer instance="line-n.art7} aphb 30203503:" senseid="phone"/>
+<answer instance="line-n.w9_40:10216:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 24500349:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 02200986:" senseid="phone"/>
+<answer instance="line-n.w8_024:3051:" senseid="product"/>
+<answer instance="line-n.w7_023:17827:" senseid="phone"/>
+<answer instance="line-n.w8_142:13364:" senseid="phone"/>
+<answer instance="line-n.w8_083:14895:" senseid="phone"/>
+<answer instance="line-n.w7_117:10197:" senseid="phone"/>
+<answer instance="line-n.w8_013:14047:" senseid="product"/>
+<answer instance="line-n.w7_019:14634:" senseid="phone"/>
+<answer instance="line-n.w7_017:6376:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 24900680:" senseid="phone"/>
+<answer instance="line-n.w7_021:3496:" senseid="phone"/>
+<answer instance="line-n.w9_13:9355:" senseid="phone"/>
+<answer instance="line-n.w8_098:13314:" senseid="product"/>
+<answer instance="line-n.w8_064:14051:" senseid="phone"/>
+<answer instance="line-n.w7_107:7711:" senseid="phone"/>
+<answer instance="line-n.w9_40:10241:" senseid="phone"/>
+<answer instance="line-n.w7_111:6250:" senseid="phone"/>
+<answer instance="line-n.w9_31:14204:" senseid="product"/>
+<answer instance="line-n.w9_20:7066:" senseid="product"/>
+<answer instance="line-n.w8_027:13714:" senseid="phone"/>
+<answer instance="line-n.w7_006:6674:" senseid="phone"/>
+<answer instance="line-n.w7_080:1471:" senseid="phone"/>
+<answer instance="line-n.w7_124:728:" senseid="product"/>
+<answer instance="line-n.w7_083:9304:" senseid="phone"/>
+<answer instance="line-n.w8_019:4936:" senseid="product"/>
+<answer instance="line-n.w9_17:14207:" senseid="product"/>
+<answer instance="line-n.w7_093:5547:" senseid="product"/>
+<answer instance="line-n.w7_085:427:" senseid="product"/>
+<answer instance="line-n.w7_112:2163:" senseid="product"/>
+<answer instance="line-n.w7_115:6602:" senseid="product"/>
+<answer instance="line-n.w8_081:8566:" senseid="phone"/>
+<answer instance="line-n.w8_104:2916:" senseid="phone"/>
+<answer instance="line-n.w7_050:15645:" senseid="phone"/>
+<answer instance="line-n.w7_033:3398:" senseid="product"/>
+<answer instance="line-n.w9_8:3899:" senseid="phone"/>
+<answer instance="line-n.art7} aphb 37805623:" senseid="phone"/>
+<answer instance="line-n.w8_016:14692:" senseid="product"/>
+<answer instance="line-n.w7_107:826:" senseid="product"/>
+<answer instance="line-n.w7_002:18532:" senseid="product"/>
+<answer instance="line-n.w7_102:12660:" senseid="product"/>
+<answer instance="line-n.w8_002:7541:" senseid="product"/>
+<answer instance="line-n.w8_063:10855:" senseid="product"/>
+<answer instance="line-n.art7} aphb 18601882:" senseid="phone"/>
+<answer instance="line-n.w9_7:13171:" senseid="phone"/>
+<answer instance="line-n.w9_32:1867:" senseid="phone"/>
+<answer instance="line-n.w9_29:3437:" senseid="product"/>
+<answer instance="line-n.w7_019:18445:" senseid="product"/>
+<answer instance="line-n.art7} aphb 45700442:" senseid="phone"/>
+<answer instance="line-n.w8_067:14552:" senseid="product"/>
+<answer instance="line-n.w8_053:16416:" senseid="product"/>
+<answer instance="line-n.w9_12:680:" senseid="product"/>
+<answer instance="line-n.w9_8:1503:" senseid="phone"/>
+<answer instance="line-n.w7_066:3322:" senseid="phone"/>
+<answer instance="line-n.w8_100:4429:" senseid="product"/>
+<answer instance="line-n.w7_104:8687:" senseid="product"/>
+<answer instance="line-n.art7} aphb 54101892:" senseid="phone"/>
+<answer instance="line-n.w8_038:1345:" senseid="product"/>
+<answer instance="line-n.w7_126:14239:" senseid="product"/>
+<answer instance="line-n.w9_30:3935:" senseid="product"/>
+<answer instance="line-n.w9_18:11863:" senseid="product"/>
+<answer instance="line-n.w8_003:16519:" senseid="product"/>
+<answer instance="line-n.art7} aphb 29604729:" senseid="phone"/>
+<answer instance="line-n.w9_38:10638:" senseid="product"/>
+<answer instance="line-n.w7_046:6144:" senseid="product"/>
+<answer instance="line-n.w8_098:14382:" senseid="product"/>
+<answer instance="line-n.w8_074:4317:" senseid="phone"/>
+<answer instance="line-n.w7_011:18280:" senseid="phone"/>
+<answer instance="line-n.w8_053:3883:" senseid="phone"/>
+<answer instance="line-n.w8_040:16402:" senseid="phone"/>
+<answer instance="line-n.w7_065:13727:" senseid="product"/>
+<answer instance="line-n.w8_007:14740:" senseid="phone"/>
+<answer instance="line-n.w8_011:260:" senseid="phone"/>
+<answer instance="line-n.w7_003:8955:" senseid="product"/>
+<answer instance="line-n.w8_011:298:" senseid="phone"/>
+<answer instance="line-n.w7_122:11595:" senseid="phone"/>
+<answer instance="line-n.w9_1:4358:" senseid="product"/>
+<answer instance="line-n.w7_108:11591:" senseid="product"/>
+<answer instance="line-n.w8_065:17112:" senseid="product"/>
+<answer instance="line-n.w8_070:8114:" senseid="phone"/>
+<answer instance="line-n.w8_011:13061:" senseid="phone"/>
+<answer instance="line-n.w7_100:15579:" senseid="product"/>
+<answer instance="line-n.w7_071:6321:" senseid="product"/>
+<answer instance="line-n.w8_110:14049:" senseid="product"/>
+<answer instance="line-n.w7_108:4296:" senseid="phone"/>
+<answer instance="line-n.w7_057:1203:" senseid="phone"/>

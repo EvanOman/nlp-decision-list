@@ -1,0 +1,634 @@
+<corpus lang="en">
+<lexelt item="line-n">
+<instance id="line-n.w8_059:8174:">
+<context>
+ <s> Advanced Micro Devices Inc., Sunnyvale, Calif., and Siemens AG of West Germany said they agreed to jointly develop, manufacture and market microchips for data communications and telecommunications with an emphasis on the integrated services digital network. </s> <@> </p> <@> <p> <@> <s> The integrated services digital network, or ISDN, is an international standard used to transmit voice, data, graphics and video images over telephone <head>lines</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_098:12684:">
+<context>
+ <s> In your May 21 story about the phone industry billing customers for unconnected calls, I was surprised that you did not discuss whether such billing is appropriate. </s> <@> <s> A caller who keeps a <head>line</head> open waiting for a connection uses communications switching and transmission equipment just as if a conversation were taking place. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_106:13309:">
+<context>
+ <s> But he doesn't apologize for the idea, because ZapMail was an effort to address a real and continuing problem. </s> <@> <s> Facsimile machines, which transmit documents over telephone <head>lines</head> , are eating into Federal's overnight business. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_40:10187:">
+<context>
+ <s> Callers are invited to play interactive games with the movie's characters, to enter sweepstakes and, of course, to run, don't walk, to the nearest theater. </s> <@> </p> <@> <p> <@> <s> Toll telephone services have mostly been the stuff of pornography <head>lines</head> and of children's horror-story and Santa Claus lines. </s> <@> <s> But movie marketers hope they can use the lines to entice potential moviegoers, especially teen-agers and young adults. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_16:217:">
+<context>
+ <s> Its 10 million people are burdened with an $18 billion debt, stuck with a defunct infrastructure and a technologically untrained work force. </s> <@> </p> <@> <p> <@> <s> In Budapest offices, secretaries often work in groups to make a single call on one of the country's huge, pea-green telephone "machines," which have plenty of levers and flashing lights but a poor record of finding a free <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_119:16927:">
+<context>
+ <p> <@> <s> Benihana National Corp., Miami, plans to close its unprofitable Big Splash-Seafood Emporium restaurant <head>line</head> as part of its drive to "get back to basics" and focus on Japanese cooking, Joel Schwartz, president, said in an interview. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_008:13756:">
+<context>
+ <s> The tape-recorded voice answering the phone tells callers how to enter a contest for a free trip to London, which includes a plug for Continental Airlines. </s> <@> <s> If you stay on the <head>line</head> , running up an even bigger phone bill, the same voice goes on to advertise the movie, and would have gone on but I'd heard enough. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_041:15186:">
+<context>
+ <s> THE DIRECTIONS must be designed as carefully as the product itself, more companies are finding. </s> <@> </p> <@> <p> <@> <s> For instance, Prodigy Services Co., a joint venture of International Business Machines Corp. and Sears, Roebuck & Co., worked for three years to develop its system for shopping and retrieving information from a home computer over telephone <head>lines</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 05601797:">
+<context>
+ <s> " Mommy , " came a very small voice , " did you say I killed him ? " " Johnny ... " she began when another voice cut into the <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_119:2964:">
+<context>
+ <s> The emphasis on headgear is expected to last at least through the fall. </s> <@> <s> Christian Lacroix's fall <head>line</head> , for example, includes velvets and flowers worn close to the head. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_040:13652:">
+<context>
+ <s> Take information services. </s> <@> <s> Advances in technology since the time of the decree mean that computers can more easily communicate with each other over telephone <head>lines</head> -- that's especially important now that there are an estimated 12 million home computers in America, apart from the millions of office systems. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_122:2194:">
+<context>
+ <s> Many mutual funds offer telephone switching privileges where an investor can call to switch out of a stock mutual fund into a money-market fund at the end of that day's trading. </s> <@> <s> But sometimes a fund's telephone <head>lines</head> are jammed. </s> <@> <s> When stock prices made sharp corrections earlier this year, some investors complained they tried unsuccessfully for three and four days to get through to mutual funds on 800-number telephone lines. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 45903907:">
+<context>
+ <s> " Yes . " " If you still have that open <head>line</head> to the White House you'd better notify the President of the situation . " </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 43602625:">
+<context>
+ <s> I found out it was me . </s> <s> Both Jeanette and I assumed he was there to test the <head>line</head> or change the dial . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_034:3995:">
+<context>
+ <s> Turbine Services parts made from the drawings, valued by GE at about $6 million, must be locked up in a bonded warehouse for five years. </s> <@> <s> And Turbine Services is prohibited from dealing in parts for several <head>lines</head> of gas turbines for five to 10 years. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_139:696:">
+<context>
+ <s> In addition, the company is demanding that dealers assign special showroom space, sales personnel and service technicians to the Yugo cars. </s> <@> <s> Without this commitment, Mr. Prior worries that dealers will pay more attention to their main car <head>line</head> and "orphan" the Yugo, just as sales for all auto makers are heading into a slump. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 20801955:">
+<context>
+ <s> The whole goddamned system was breaking down . </s> <s> He redialed the Hospital Maternity Floor on a direct <head>line</head> busy too ! </s> 
+</context>
+</instance>
+<instance id="line-n.w8_028:3156:">
+<context>
+ <s> The effort, a major challenge to IBM, will include Compaq and Tandy. </s> <@> </p> <@> <p> <@> <s> Europe's computer industry is set to begin cloning IBM's struggling new <head>line</head> of personal computers. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 19600919:">
+<context>
+ <s> That is one aspect of the Zeigarnik effect a proclivity to REMEMBER unfinished business , and to forget finished business . </s> <s> You have experienced this when you have looked up a telephone number but found the <head>line</head> busy when you first called it . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_111:8071:">
+<context>
+ <s> If a product triggers a flood of calls, she can soften her presentation or spread it out a few more minutes. </s> <@> </p> <@> <p> <@> <s> "We've even had situations where we've told the audience, 'Don't call now because the <head>lines</head> will be busy for a while,' " says Jerry Troupe, executive assistant to Home Shopping Network Inc.'s chairman, Roy Speer. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_041:4840:">
+<context>
+ <s> But a counter trend may be setting in. </s> <@> <s> Campbell's Godiva unit, the brand that started it all, has introduced a more American <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_074:3928:">
+<context>
+ <s> This year, Grey's work for Revlon was largely limited to a single television advertisement for Flex, a hair care product. </s> <@> <s> Grey had been assigned to work on an ad campaign for a new hair care <head>line</head> that Revlon planned to introduce next year. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_049:15000:">
+<context>
+ <s> Currently, New York-based AT&T leases more conventional consumer phones at $2.70 to $8.85 a month. </s> <@> </p> <@> <p> <@> <s> The telecommunications company added it will begin leasing three other specialized models, including one with two <head>lines</head> , in August. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_086:3306:">
+<context>
+ <p> <@> <s> IBM's computer-marketing accord with Ferranti heralds a major IBM campaign to boost European sales of its new personal-computer <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w9_8:1533:">
+<context>
+ <s> Jackets may be sold next. </s> <@> </p> <@> <p> <@> <s> Meanwhile, NBC Sports recently began "Scores Plus," a year-round, 24-hour 900 <head>line</head> providing a complex array of scores, analysis and fan news. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_042:5289:">
+<context>
+ <s> Nynex said telephone operations remain strong. </s> <@> <s> The company said it added more than 479,000 telephone <head>lines</head> in the quarter, boosting the total to 14.6 million. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_041:11151:">
+<context>
+ <s> Fixed-income funds should attract the lion's share of sales but some say by a lower margin than past years because of low rates. </s> <@> </p> <@> <p> <@> <s> NEW TOYS ABOUND, many of them high tech, as fantasy <head>lines</head> decline. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_059:9261:">
+<context>
+ <s> The transaction includes J.B.N.'s Independent Communications Inc. unit, a Fairview, Kan., provider of communications services to the Defense Department, the telecommunications concern said. </s> <@> </p> <@> <p> <@> <s> J.B.N. Telephone serves 2,500 access <head>lines</head> in 13 exchanges in north central Kansas, Contel said. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_6:10969:">
+<context>
+ <s> The three-month-old strike at Nynex seriously hurt the installation of new telephone <head>lines</head> in the quarter. </s> <@> <s> Nynex said access lines in service at the end of the quarter were off 18,000 from the previous quarter, which reported an increase of 160,000 new access lines. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 41702230:">
+<context>
+ <s> " And now something that is a part of all of our lives ... a message from the sponsor , " Kupcinet said to the camera . </s> <s> He smiled until the red light went out , then immediately turned and picked up a telephone with " Kup " printed on the dial , his <head>line</head> to the control booth . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_004:1365:">
+<context>
+ <s> Chrysler Corp. also is offering financing incentives and rebates that don't have an expiration date. </s> <@> </p> <@> <p> <@> <s> A Ford analyst said another reason for offering the incentives on Taurus and Sable is to keep sales balanced across car <head>lines</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 26902918:">
+<context>
+ <s> He closed his eyes and tried to make his mind a blank , and he had almost dropped off to sleep when the telephone rang , sending a jolt through him like an electric charge . </s> <s> He picked it up and said , " Hello , " and immediately wished he hadn't , because it was Selden Fulton at the other end of the <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 37804749:">
+<context>
+ <s> There was a tiny hesitation , and then Emmy said , with curious emphasis , " I'm all right . </s> <s> It's you that ... " There was a click , and the <head>line</head> went dead . </s> 
+</context>
+</instance>
+<instance id="line-n.w9_6:2907:">
+<context>
+ <s> Information systems posted a loss of $8 million, compared with a loss of $9 million a year earlier. </s> <@> </p> <@> <p> <@> <s> Customer-access <head>lines</head> increased at an annualized rate of about 4% and minutes of long-distance use rose about 12%. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_106:10827:">
+<context>
+ <s> Fleet said it also acquired the lease for Equipment Finance's offices in New York and agreed to retain its staff of 40. </s> <@> </p> <@> <p> <@> <s> Providence, R.I.-based Fleet Financial is a bank holding company operating several <head>lines</head> of financial services, including commercial and trust banking, mortgage banking, real estate lending, investment banking and data processing. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 02400926:">
+<context>
+ <s> " Now that's panic time , for TV'S cardinal rule is : The programs must end on time ! </s> <s> I punched a button opening my <head>line</head> to Joe Behar , the director in Colorado : " Joe , we've got to stretch . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_107:12000:">
+<context>
+ <s> Major firms contacted, including Morgan Stanley & Co., Kidder Peabody & Co., PaineWebber Inc., Goldman Sachs and Salomon Brothers, all either denied that they were responsible for the buying or declined comment. </s> <@> </p> <@> <p> <@> <s> As news of the rally in MMI futures reached the New York Stock Exchange (major firms maintain open <head>lines</head> both to their traders in Chicago and to specialists in New York), the market got another important psychological boost: the announcement of stock buybacks by major corporations. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_087:620:">
+<context>
+ <s> On July 1, the company added $100 to $150 to the base price of its 1987 Foxes. </s> <@> <s> The <head>line</head> is assembled in Brazil. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 30203503:">
+<context>
+ <s> " Ross , you bastard , is this your idea of a joke ? " </s> <s> On the other end of the <head>line</head> , safe by half an island , Stuie Ross beamed . </s> 
+</context>
+</instance>
+<instance id="line-n.w9_40:10216:">
+<context>
+ <s> To combat the critics, Interactive TeleMedia, a Los Angeles-based firm specializing in 900 numbers for the entertainment business, has come up with a system to block multiple calls. </s> <@> <s> Its system would allow a movie <head>line</head> , for example, to accept only a certain number of calls from a single phone number. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 24500349:">
+<context>
+ <s> Paul had brought the fig tree from north Florida and Honor always thought of the one Jesus cursed when she looked at it , because it remained barren in spite of Paul's careful tending . </s> <s> When she had finished the dishes Honor called Ann Luise and knew at once from the glum tone at the other end of the <head>line</head> that Ann Luise's parents had gone out and left her to baby-sit . </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 02200986:">
+<context>
+ <s> Some of your old henchmen at the Yard doing their stuff , splendidly . </s> <s> Been on the <head>line</head> to them on and off all day . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_024:3051:">
+<context>
+ <s> In establishing products with consumers, he said, it's easier to focus ad dollars and marketing efforts if there's only one name to promote. </s> <@> <s> Chevrolet is using the same approach with its Geo <head>line</head> of import cars that debuts this fall. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_023:17827:">
+<context>
+ <s> So for Judge Schwartzberg, the practical considerations of finding space for files and people to do the filing are a top priority. </s> <@> <s> "We will have to add more copying machines, more telephone <head>lines</head> , more clerical staff," he said. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_142:13364:">
+<context>
+ <s> Telephones were busier than usual at Fidelity Investments over the weekend -- but far less busy than the weekend that preceded October's Black Monday. </s> <@> </p> <@> <p> <@> <s> Fidelity, the nation's largest mutual-fund group, estimated that it received about 45,000 calls -- 28% more than usual -- on its 24-hour customer service <head>lines</head> during the weekend in the wake of Friday's 140.58-point drop in the Dow Jones Industrial Average. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_083:14895:">
+<context>
+ <s> There was no response. </s> <@> <s> Later, when we phoned again, the <head>line</head> was disconnected." </s> 
+</context>
+</instance>
+<instance id="line-n.w7_117:10197:">
+<context>
+ <s> WALL STREET CHAOS spurs activity in a $99, simulated trading game from Wall Street Games Inc., Wellesley, Mass. </s> <@> <s> With nothing real at stake, players still swamped the game's toll-free telephone <head>lines</head> , selling stocks short on Monday and buying on Tuesday and yesterday. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_013:14047:">
+<context>
+ <s> Last year alone, Audi lost an estimated $341 million in the U.S. Even an infusion of several new models in the past year and a heavily marketed extended service warranty program have failed to halt the slide. </s> <@> </p> <@> <p> <@> <s> While not subject to such jarring problems, the Volkswagen <head>line</head> has seen its once-dominant position in the U.S. imported small-car market evaporate. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_019:14634:">
+<context>
+ <s> The restrictions are exasperating for manufacturers, who must contend with huge competitive pressures sparked by the technological changes. </s> <@> <s> The standard telephone has given way to a complex electronic device that has the potential to enable people, computers and office machines to communicate along the same <head>lines</head> at the same time. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_017:6376:">
+<context>
+ <s> Regulators, who have set up a telephone hotline to help with the transition, said patients can either choose another federally qualified HMO or return to traditional fee-for-service Medicare benefits. </s> <@> </p> <@> <p> <@> <s> A federal compliance officer doubling as an operator on the 800 telephone number said Saturday, "We have six <head>lines</head> , and they are never not ringing." </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 24900680:">
+<context>
+ <s> I telephoned the office and had them connect me with Bertha Cool . " </s> <s> Donald , Bertha , " I said , when I heard her voice on the <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_021:3496:">
+<context>
+ <s> New products announced yesterday -- a phone system called Spirit and an updated Merlin system -- are part of a plan to overhaul the unit, said John A. "Gus" Blanchard, group vice president in charge of the unit. </s> <@> <s> The unit sells phones and phone switches to businesses with fewer than 80 <head>lines</head> and was one of several businesses AT&T considered abandoning last fall. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_13:9355:">
+<context>
+ <s> St. Croix Telephone would be the fourth telephone concern in Wisconsin -- and the tenth in the Midwest -- acquired by Rochester Telephone in the past year. </s> <@> <s> St. Croix Telephone serves 5,300 access <head>lines</head> near Minneapolis. </s> <@> <s> Rochester Telephone serves 575,000 access lines, primarily in Western-Central New York. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_098:13314:">
+<context>
+ <s> Ms. Cools said she suspected Kodak might exit the business because it hadn't introduced an improved version of the disk since February 1986. </s> <@> <s> Kodak's product announcement last month included everything but disk cameras -- two new 35mm camera <head>lines</head> , a new 110 camera and a new disposable camera. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_064:14051:">
+<context>
+ <s> For Kodak, the trade-in already has been a costly public relations headache. </s> <@> <s> It has spent an estimated $17 million, much of it for a toll-free <head>line</head> it has kept open for two years and for a variety of early notices it sent to camera holders. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_107:7711:">
+<context>
+ <s> A caller in Chicago, for instance, could call a Chicago company and get switched to a branch office in New York without paying the full long-distance rates. </s> <@> <s> To pay for such activity, the FCC now makes companies pay $25 a month for certain local <head>lines</head> that connect to big companies' switchboards. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_40:10241:">
+<context>
+ <s> "The key is to be able to handle those calls," says Ronald A. Katz, president and chief executive officer. </s> <@> <s> He says his company will be looking into movie <head>lines</head> , as well as record promotions in which, say, callers could hear a preview of a new Madonna song. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_111:6250:">
+<context>
+ <p> <@> <s> More than a week after the market tumbled through the glass into Wonderland, the telephone <head>lines</head> at Rothschild Securities Corp. still crackled with customers' anger and apprehension. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_31:14204:">
+<context>
+ <s> He was generally optimistic, despite acknowledging that the first half was "highly disappointing." </s> <@> <s> He said the rollout of the 2200 <head>line</head> of mainframes -- whose delay caused some of the recent problems -- "went, if anything, better than we expected." </s> 
+</context>
+</instance>
+<instance id="line-n.w9_20:7066:">
+<context>
+ <s> The worst gas guzzler in the EPA's annual rating isn't for sale in the U.S. -- Chrysler Italian Imports' two-seat Italian-made Lamborghini Countach. </s> <@> <s> A 1990 model of the $155,000 sports car was tested by the EPA and got 6 mpg in city driving and 10 mpg on the highway, but the manufacturer says a replacement <head>line</head> will be introduced in the U.S. this year. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_027:13714:">
+<context>
+ <s> He wanted to discuss a cabinet appointment with Vice President George Bush, and, thinking Mr. Bush was nearby, asked the switchboard to get him. </s> <@> </p> <@> <p> <@> <s> Soon, the vice president was on the <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_006:6674:">
+<context>
+ <s> Mr. Fowler's action appears aimed at quelling growing congressional opposition to any increase. </s> <@> <s> The subscriber- <head>line</head> charge, also called the access charge, makes subscribers pay part of the fixed costs of the lines to their homes and small businesses rather than adding these costs to the cost of long-distance service. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_080:1471:">
+<context>
+ <s> The Federal Communications Commission, which recently eased up on raunchy radio and TV shows, yesterday started cracking down on raunchy telephone services. </s> <@> </p> <@> <p> <@> <s> The agency launched investigations into whether two California companies violated the Communications Act by providing lewd telephone messages without screening the calls to see if children were on the <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_124:728:">
+<context>
+ <s> Sales rose 5% to $6.13 billion. </s> <@> </p> <@> <p> <@> <s> Criticism has been growing among securities analysts that Mr. Stafford, whose experience is concentrated in packaged-food <head>lines</head> , has done a poor job of managing Pillsbury's restaurant operations. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_083:9304:">
+<context>
+ <s> At the hospital, nobody could call in except on the emergency number. </s> <@> <s> <head>Lines</head> out were jammed. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_019:4936:">
+<context>
+ <s> It is being squeezed by Asian competition in the company's traditional office-equipment market. </s> <@> <s> Sales of a new <head>line</head> of minicomputers haven't met the company's projections. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_17:14207:">
+<context>
+ <s> Noxell uses a second major agency, Chicago-based Leo Burnett, for its Clarion <head>line</head> ; Burnett is already a Procter agency and could be considered for future assignments. </s> <@> </p> <@> <p> <@> <s> Meanwhile, industry executives already have begun speculating that Lintas might take on another cosmetics line, such as Maybelline, a unit of Schering-Plough. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_093:5547:">
+<context>
+ <s> The suit also asked for unspecified monetary damages. </s> <@> <s> Arthur Albert, who runs Alberts with his wife, said he has heard that a proposed "talking" Cabbage Patch <head>line</head> might also have nylon hair, and that he would expect royalty payments on that product, too. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_085:427:">
+<context>
+ <s> But Michael Kennedy, a food analyst at IDS Financial Services, believes the burger development is emblematic of Hormel innovations. </s> <@> </p> <@> <p> <@> <s> Mr. Ramey is more excited about the Top Shelf <head>line</head> , which packages microwavable meat entrees in multilayered plastic that acts like a can. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_112:2163:">
+<context>
+ <s> A Medalist spokesman said the company hasn't had contact with BSN in a while and that BSN is leaving its options open by saying it might seek control of Medalist while lowering its stake. </s> <@> </p> <@> <p> <@> <s> The filing said that should BSN increase its stake, it may seek representation or even majority representation on Medalist's board, or sell certain <head>lines</head> of Medalist's business "not complementing BSN's current businesses." </s> 
+</context>
+</instance>
+<instance id="line-n.w7_115:6602:">
+<context>
+ <s> Uniroyal Goodrich Tire Co. is having a "tough year" because tire shipments to auto makers have declined 22% and raw-materials costs have increased, Patrick C. Ross, chairman and chief executive officer, said. </s> <@> </p> <@> <p> <@> <s> The company, formed in August 1986 in a merger of the tire units of B.F. Goodrich Co. and Uniroyal Inc., also is being hurt by production inefficiencies that arose when it introduced 24 new tire <head>lines</head> in late 1986, Mr. Ross said in an interview. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_081:8566:">
+<context>
+ <s> Behind a glass window sits the moderator. </s> <@> <s> He is about to get a report from Washington when the telephone <head>line</head> dies. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_104:2916:">
+<context>
+ <s> There, he works at a Formica desk stacked high with newspapers and mail in an open New York newsroom with a dozen other people. </s> <@> <s> He has two phones that seldom stop ringing, plus a <head>line</head> for his best sources -- a network of traders, raiders and sundry other tipsters. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_050:15645:">
+<context>
+ <s> The state panel confirmed an earlier ruling that determined the services to be in the public interest. </s> <@> <s> In addition, it ordered Pacific Telesis Group Inc.'s Pacific Bell unit and GTE Corp.'s General Telephone Co. of California unit to continue efforts to find an inexpensive way to block access to 976 programs from their telephone <head>lines</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_033:3398:">
+<context>
+ <s> This year several big companies gave up on being independent suppliers of a broad <head>line</head> of computer systems: Control Data Corp. is now concentrating on certain niches; Sperry Corp. joined with Burroughs Corp. to form Unisys Corp., and Honeywell Inc. has decided to merge its computer operations with those of two big overseas computer makers. </s> <@> </p> <@> <p> <@> <s> Today, Data General executives say, their company is in a select group that includes IBM, Digital and Hewlett-Packard Inc. as makers of a broad line of computer products for offices and factories. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_8:3899:">
+<context>
+ <s> The biggest flurry of investor activity came early in the day. </s> <@> <s> Vanguard Group Inc. saw heavy exchanges from stock funds into money market funds after the telephone <head>lines</head> opened at 8:30 a.m. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 37805623:">
+<context>
+ <s> " When John came out of Natasha's room and ran into Paul and myself , " he went on , " he was embarrassed not to see Paul , who understood the situation perfectly , but to see me . </s> <s> For my benefit , he made up a ridiculously lame excuse ; that he had been trying to telephone from Natasha's room , but that the <head>line</head> was engaged . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_016:14692:">
+<context>
+ <p> <@> <s> Weight Watchers International Inc. accused Stouffer Corp. of unfairly tipping the scales in favor of Stouffer's Lean Cuisine food <head>line</head> in advertisements. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_107:826:">
+<context>
+ <s> It traditionally has sold its funds through direct marketing techniques, such as newspaper and magazine advertising backed by a telephone network. </s> <@> <s> Although the company clearly isn't abandoning such methods, it is looking to broker-dealers to sell the new fund <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w7_002:18532:">
+<context>
+ <s> LTV has had $4.69 billion in losses over the past five years, mostly from its beleaguered steel unit, the nation's second largest. </s> <@> <s> LTV plans to reorganize around its aerospace and defense unit, its only profitable <head>line</head> , which accounted for almost two-thirds of LTV's 1986 operating profit of $171.9 million. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_102:12660:">
+<context>
+ <s> Mr. Krumm said in an interview that slowly rising interest rates and a downturn in the housing industry will hurt the industry after four years of record sales. </s> <@> </p> <@> <p> <@> <s> Mr. Krumm said the Magic Chef acquisition moved Maytag into the major appliance <head>lines</head> in which it wants to be, such as refrigerators and ranges. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_002:7541:">
+<context>
+ <s> They blame their troubles on Mr. Jones and on since-departed Nautilus executives (their own people, not Jones holdovers), who they say spent too aggressively in the diversification effort. </s> <@> <s> And they are upbeat about new products -- a <head>line</head> of exercise machines for handicapped people and computerized medical machines designed to diagnose and treat bad backs (in competition with Mr. Jones's new device) and other maladies. </s> <@> <s> "We're excited about the medical line," says Mr. Bonney. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_063:10855:">
+<context>
+ <s> In its earnings announcement, which came after the stock market closed, Coleco said it will seek a buyer for several plastic outdoor product <head>lines</head> that are manufactured at its New York state facilities, including pools, snow products, children's furniture and tricycles. </s> <@> <s> These lines, which are among Coleco's older products, generated sales of $77 million last year, Coleco said. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 18601882:">
+<context>
+ <s> His face gave nothing away as he went to the telephone ; but certainly he went with alacrity . " </s> <s> I know you told me to get in touch with the police , " said the creamy voice of Alix over the <head>line</head> , without preamble , " but I needed to confirm something with you first . </s> 
+</context>
+</instance>
+<instance id="line-n.w9_7:13171:">
+<context>
+ <s> Chairman Zane E. Barnes said Southwestern Bell's "businesses are healthy and are continuing to grow." </s> <@> </p> <@> <p> <@> <s> The company reported a 3.1% increase in the number of access <head>lines</head> in service, and also said its Southwestern Bell Mobile Systems unit added 30,000 new customers, with a current total of about 333,000. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_32:1867:">
+<context>
+ <s> "We have put Traders & Investors on notice that they appear to be operating as an unregistered investment adviser," says Richard Barry, supervisor of enforcement with the New Jersey agency. </s> <@> </p> <@> <p> <@> <s> Meanwhile, the SEC, which is aware of the Traders & Investors <head>line</head> and the growing attention being given to it, declines to comment on whether it's investigating. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_29:3437:">
+<context>
+ <s> For example, Stafford Blaine Designs Ltd. of Minneapolis offers $14 white cotton shirts with renderings of Renoir's painting "Two Sisters on a Terrace" or Gaugin's "Tahitian Landscape." </s> <@> </p> <@> <p> <@> <s> At the Philadelphia convention, hourlong fashion shows ran twice daily to help retailers appreciate the latest <head>lines</head> of imprintable clothing and graphic designs. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_019:18445:">
+<context>
+ <s> As with IBM, other computer concerns reported sharply stronger March sales. </s> <@> <s> The surge was partly attributed to customers who had been holding back to evaluate new models and enhancements in IBM's Sierra mainframe <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 45700442:">
+<context>
+ <s> I've got to call the airport . " " Get off the <head>line</head> ? " he said . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_067:14552:">
+<context>
+ <s> The company's American heyday is long since past and in recent months it has been jolted by new setbacks. </s> <@> </p> <@> <p> <@> <s> At least nine dealers have dropped its upscale Audi <head>line</head> since the year began, and company officials fear more defections are coming. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_053:16416:">
+<context>
+ <s> Expert Westerners say Russian refrigerators use too much power, weigh too much and make too much noise. </s> <@> <s> Consumers clamor for them, as they do for the extensive Soviet <head>line</head> of fully unautomatic cameras. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_12:680:">
+<context>
+ <s> Last year, Chrysler put about 60% of that budget into TV, and about 40% in magazines and newspapers. </s> <@> </p> <@> <p> <@> <s> Major auto makers, both domestic and foreign, have usually supported their automobile <head>lines</head> with massive advertising budgets placed largely in television. </s> <@> <s> The shift by Chrysler represents the largest proportion of an ad budget dedicated to print by a car line of a major U.S. auto manufacturer in at least two decades, according to Jim Guthrie, executive vice president of marketing development for the Magazine Publishers of America, an industry group. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_8:1503:">
+<context>
+ <s> The use of 900 toll numbers has been expanding rapidly in recent years. </s> <@> <s> For a while, high-cost pornography <head>lines</head> and services that tempt children to dial (and redial) movie or music information earned the service a somewhat sleazy image, but new legal restrictions are aimed at trimming excesses. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_066:3322:">
+<context>
+ <s> The result of this bureaucratic obstacle course: New foreign investment, excluding companies already established in the Philippines, reached a meager $712,000 in the first quarter of this year. </s> <@> </p> <@> <p> <@> <s> Many businessmen claim it is more difficult to transact business now than under Mr. Marcos, when a direct <head>line</head> to the palace, however costly, usually assured an investor of official cooperation. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_100:4429:">
+<context>
+ <s> Revenue rose 4% to $281.7 million from $270.8 million. </s> <@> </p> <@> <p> <@> <s> Irving Gould, chairman and chief executive officer, said demand for all products "exceeded expectations" while the Amiga <head>line</head> "is being established solidly and currently represents 40% of total revenues." </s> 
+</context>
+</instance>
+<instance id="line-n.w7_104:8687:">
+<context>
+ <s> The family of David Grutman, a Barco vice president, has agreed to tender to the Donners the 600,000 shares it controls, Barco said. </s> <@> <s> Michael Donner said the family hasn't any immediate plans to expand the company, but will develop existing <head>lines</head> of the business, founded by the elder Mr. Donner's stepfather in 1929. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 54101892:">
+<context>
+ <s> " Pete , just tell me what it means . " " Jesus , this is an open <head>line</head> . " " I know it's an open line . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_038:1345:">
+<context>
+ <s> A consumer-health group accused an RJR Nabisco Inc. unit of misleading consumers about the contents of a popular <head>line</head> of fruit drinks. </s> <@> </p> <@> <p> <@> <s> The Center for Science in the Public Interest said it asked the Food and Drug Administration to order the Del Monte Foods unit to change the name of its Fruit Blends line. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_126:14239:">
+<context>
+ <s> Compaq Computer Corp. is expected to introduce next week speedier versions of its top-of-the- <head>line</head> portable and desktop computers. </s> <@> </p> <@> <p> <@> <s> The moves are Compaq's first product introductions since International Business Machines Corp. revamped its personal computer line in April and indicate that Compaq is following its tested strategy of trying to leapfrog IBM performance and concentrate on high-powered business computers. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_30:3935:">
+<context>
+ <s> "We prefer to invest in software companies with $2 million to $5 million in revenue instead of starting them from scratch," says Andrew Rachleff, a partner in Merrill, Pickard, Anderson & Eyre. </s> <@> <s> The Palo Alto, Calif., venture firm recently led a $4 million financing to buy software <head>lines</head> for a newly formed company. </s> 
+</context>
+</instance>
+<instance id="line-n.w9_18:11863:">
+<context>
+ <p> <@> <s> N.V. Philips and its partners have granted a Japanese firm exclusive rights to promote and market equipment for suppliers of a new <head>line</head> of prerecorded audio/visual compact-disk products in Asia. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_003:16519:">
+<context>
+ <s> William E. Stevens, executive vice president, proudly describes how the company has reduced the lineup of motors its makes for its power tools to about a dozen models from more than 50. </s> <@> <s> Recently, a revamped <head>line</head> of under-the-cabinet Spacemaker kitchen appliances was given a sleek, European look that won a top award from the Industrial Designers Society of America. </s> 
+</context>
+</instance>
+<instance id="line-n.art7} aphb 29604729:">
+<context>
+ <s> Thanks , anyway . " </s> <s> The transatlantic <head>line</head> died . </s> 
+</context>
+</instance>
+<instance id="line-n.w9_38:10638:">
+<context>
+ <s> In his letter, Mr. Jacobs said that, like Amway, he would sell Avon's Giorgio Beverly Hills Inc. and Parfumes Stern Inc. units, as well as other operations that Avon may be treating as discontinued. </s> <@> <s> In recent months the New York-based company has been disposing of ancillary businesses to concentrate on its <head>lines</head> of household goods and cosmetics, which are distributed primarily through a direct-sales force. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_046:6144:">
+<context>
+ <s> Mr. Buckner said ETA could produce perhaps $60 million in revenue this year, but probably no profit before 1989. </s> <@> </p> <@> <p> <@> <s> Despite intense competitive pressures on the company's mainframe and data-storage products businesses, Mr. Price said Control Data intends to retain both <head>lines</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_098:14382:">
+<context>
+ <s> Mr. Kelly and Kohlberg Kravis took Beatrice private in a leveraged buy-out two years ago. </s> <@> </p> <@> <p> <@> <s> But Beatrice has individual food <head>lines</head> , including Swift meats and Hunt tomato products, that could easily be spun off. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_074:4317:">
+<context>
+ <s> The communications company also built a small call-switching room in Home Shopping's building and beefed up parts of its own network to handle the additional traffic. </s> <@> <s> From MCI's <head>lines</head> , traffic is switched to a Rockwell International Corp. automatic call distributor; the system also uses Unisys Corp. ordering equipment. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_011:18280:">
+<context>
+ <s> It also will issue $23 million in credits on customers' local phone bills in the same period. </s> <@> <s> Some 1.3 million customers with 1.6 million telephone <head>lines</head> will be affected. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_053:3883:">
+<context>
+ <s> The decline in first-quarter profit reflected a shift in Northern's Canadian production to less profitable wire and cable products during a four-week strike in March at its main Canadian plant in Bramalea, Ontario, where telephone switches are produced. </s> <@> </p> <@> <p> <@> <s> Central-office switches, which accounted for 53% of Northern's revenue last year, are used by telephone companies to route voice and data communications over telephone <head>lines</head> . </s> <@> </p> <@> <p> <@> <s> Mr. Fitzgerald said he expects that sales of switches, as measured by new telephone lines, "are going to flatten out" during the next few years, and that increased competition in North America will continue to drive down prices. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_040:16402:">
+<context>
+ <s> Since January, Southwestern Bell has sold about 16,000 new <head>lines</head> to current business customers by introducing them to various features of Integrated Services Digital Network, such as "inspect," which displays the name and telephone number of the party calling. </s> <@> </p> <@> <p> <@> <s> Impressed by what they learned in the lab, Tenneco Inc., Shell Oil Co. and Minnesota Mining & Manufacturing Co. each bought more than 3,000 new lines. </s> <@> <s> For instance, the laboratory experience helped Houston-based Tenneco to decide to buy 3,900 more lines for an advanced network that integrates voice and data traffic. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_065:13727:">
+<context>
+ <s> Those two account for "a fairly minor percentage" of sales and, in any case, are "running full steam, no problems," the spokesman added. </s> <@> </p> <@> <p> <@> <s> Limited Inc., a high-growth specialty retailer known for designing and subcontracting its own apparel <head>lines</head> , has been trying to boost the number of its U.S. contractors in response to the falling dollar and rising import restrictions. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_007:14740:">
+<context>
+ <s> An important challenge facing Mr. Adams is the distressed economy of the company's regional-service territory, which has been hard hit by the drought and energy slump. </s> <@> <s> Last year, the company's telephone business had its poorest annual growth volume for new telephone <head>lines</head> since the Great Depression. </s> <@> <s> It installed only 8,100 new lines. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_011:260:">
+<context>
+ <s> Basic telephone business revenue increased 2% to $2.47 billion from $2.42 billion, while non-telephone operation revenue slumped 17% to $137.3 million, compared with $165.2 million. </s> <@> </p> <@> <p> <@> <s> In the business segment, new telephone <head>lines</head> increased by 7.1% and call volume, reflected in minutes of use, rose 11.5%. </s> <@> <s> Bell Atlantic installed 105,000 new telephone lines, both business and residential, for an increase of 3.2% and a total of $16.3 million. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_003:8955:">
+<context>
+ <s> But the move may also reflect an effort to subcontract work to outside vendors as part of a broader strategy designed in part to trim costs. </s> <@> <s> The No. 1 auto maker in recent months has been shedding some small operations and has joined in joint ventures to make and market such products as its heavy truck <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_011:298:">
+<context>
+ <p> <@> <s> Pacific Telesis's net benefited from gains in its cellular and paging business, increased local long-distance use, and new telephone <head>lines</head> . </s> <@> </p> <@> <p> <@> <s> Minutes of use for local long-distance calls jumped 8.9%, profit in the cellular and paging business surged 73%, and new telephone lines grew 4.2%. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_122:11595:">
+<context>
+ <s> Mary and Philip Robertson have sent a postcard from Italy to their three Shih Tzus. </s> <@> <s> "Dear Nanky-Poo, Yum-Yum and Tu Ling," the card says, "We are having a splendid time, but as always, miss you guys." (Some clients telephone to talk to their dogs, but Ms. Katz jokingly tells them that the pets are "on another <head>line</head> .") </s> 
+</context>
+</instance>
+<instance id="line-n.w9_1:4358:">
+<context>
+ <s> The additional technology, personnel training and promotional effort can be expensive. </s> <@> <s> Chemical Bank spent more than $50 million to introduce its ChemPlus <head>line</head> , several packages aimed at different segments, in 1986, according to Thomas Jacob, senior vice president of marketing. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_108:11591:">
+<context>
+ <s> Goodyear's departure from Thompson was expected; the tire maker had said in June it would leave Thompson if WPP's bid succeeded. </s> <@> <s> Although Goodyear will move most of its account to New York-based Young & Rubicam, a closely held ad agency, Thompson will keep the company's high-performance tire <head>line</head> . </s> 
+</context>
+</instance>
+<instance id="line-n.w8_065:17112:">
+<context>
+ <p> <@> <s> International Business Machines Corp. said it revamped its Wheelwriter <head>line</head> of typewriters, with the addition of five new machine models and the modification of three others. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_070:8114:">
+<context>
+ <s> Almost all would agree that kids shouldn't be running up phone bills by dialing dirty talkers; it's bad for the parent's wallet and probably bad for the child's mind. </s> <@> <s> But the argument can't be made that adults shouldn't be able to call these smut <head>lines</head> if they want to. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_011:13061:">
+<context>
+ <s> Those revenues increased 45% to $757.6 million from $524.1 million, while revenues from long distance calls made within the same area code rose 8% to $427.1 million from $394.6 million. </s> <@> </p> <@> <p> <@> <s> New telephone <head>lines</head> continue to grow at a clip of 4.5% annually. </s> <@> <s> The company added 216,000 new telephone lines in the third quarter for a total of 16.3 million. </s> <@> <s> So far this year, the company has added 537,000 lines. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_100:15579:">
+<context>
+ <s> She owns a London wine bar and recently bought a big house in the country, where she plans to install herself and the entire family (Mum, Dad, kid sis and the dogs). </s> <@> <s> She's also launched a <head>line</head> of cosmetics. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_071:6321:">
+<context>
+ <s> In Mr. Welch's view, consumer electronics' main job is to give GE greater buying clout for its other business in the Pacific Rim by adding to the volume of components purchased there. </s> <@> </p> <@> <p> <@> <s> Despite the fact that Mr. Welch regards consumer electronics as something of an albatross, security analysts say that even if GE eventually exits TV-set manufacturing, it will continue to market consumer electronics because of the valuable GE brand recognition that benefits more profitable consumer <head>lines</head> , such as light bulbs and major appliances. </s> 
+</context>
+</instance>
+<instance id="line-n.w8_110:14049:">
+<context>
+ <s> "Microsoft has done a much better job in delivering new products to market than Lotus," Mr. Sherlund said. </s> <@> <s> "They seem to get more bang from their R&D <head>line</head> than Lotus." </s> 
+</context>
+</instance>
+<instance id="line-n.w7_108:4296:">
+<context>
+ <s> Rochester Telephone Corp. said it signed a letter of intent to acquire C,C&S Systems Inc. for about $25 million in stock. </s> <@> </p> <@> <p> <@> <s> Jackson, Mich.-based C,C&S Systems is a holding company that operates C,C&S Telco Inc., a telephone company that serves 17,000 access <head>lines</head> in South-Central Michigan, and T-COM Inc., a paging service that operates in Florida, Michigan and Texas. </s> 
+</context>
+</instance>
+<instance id="line-n.w7_057:1203:">
+<context>
+ <s> But officials close to Mr. Carlucci said the new national security adviser is determined to serve as an honest broker between the Pentagon, the State Department, the CIA and other agencies. </s> <@> </p> <@> <p> <@> <s> The officials said Mr. Carlucci also has been careful to secure a direct <head>line</head> to President Reagan, bypassing White House chief of staff Donald Regan. </s> 
+</context>
+</instance>
+</lexelt>
+</corpus>
