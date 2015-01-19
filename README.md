@@ -9,7 +9,7 @@ The goal of this project is to create a decision list for word sense disambiguat
        /
 line =>
        \
-       WordNet Case 22: line, product line, line of products, line of merchandise, business line, line of business -- (a particular kind of product or merchandise; "a nice line of shoes")
+        WordNet Case 22: line, product line, line of products, line of merchandise, business line, line of business -- (a particular kind of product or merchandise; "a nice line of shoes")
 ```
 
 The method used to disambiguate these cases is outlined in David Yarowsky's paper: ["DECISION LISTS FOR LEXICAL AMBIGUITY RESOLUTION: Application to Accent Restoration in Spanish and French"](http://www.aclweb.org/anthology/P94-1013). There the author uses decision lists in order to properly apply accents in Spanish and French texts but many of the methods outlined are directly applicable to our problem.
