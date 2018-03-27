@@ -1,4 +1,4 @@
-#Command Line Usage:
+# Command Line Usage:
 ```
 perl decision-list.pl **Training Data**.txt **Test Data**.txt **Decision List**.txt > **Answers**.txt
 ```
@@ -20,6 +20,6 @@ We begin by analyzing the given training data using several collocational factor
 log likelihood = Abs(Log( --------------------------))
                           P(Sense_2 | Collocation_i) 
 ```
-This equation essentially tells us how correlated some ```Collocation_i``` is to one of the two word senses. For example, if there is no correlation, then the ```P(Accent_Pattern_1 | Collocation_i)``` and ```P(Accent_Pattern_2 | Collocation_i)``` should be pretty close to .5, thus we are taking the log of 1 which is 0. However if some ```Collocation_i``` is almost always associated with ```Accent_Pattern_1```, then the log likelihood would be very large.
+This equation essentially tells us how correlated some `Collocation_i` is to one of the two word senses. For example, if there is no correlation, then the `P(Sense_1 | Collocation_i` and `P(Sense_2 | Collocation_i` should be pretty close to .5, thus we are taking the log of 1 which is 0. However if some `Collocation_i` is almost always associated with `Sense_1`, then the log likelihood would be very large.
 
 Once we have this list of collocational factors sorted by their correlation with one of the two senses we can label word senses in some testing data set. For each testing sentence, we iterate through the decision list continuing until some collocational factor applies to the testing sentence and then apply the corresponding word sense to the testing sentence.
